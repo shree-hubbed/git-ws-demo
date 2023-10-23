@@ -7,3 +7,4 @@ In a terminal type:
 ```
 git status
 ```
+hello
